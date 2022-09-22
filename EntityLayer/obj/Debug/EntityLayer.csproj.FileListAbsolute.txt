@@ -1,0 +1,12 @@
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\bkeskin\source\repos\MVCEğitim\EntityLayer\obj\Debug\EntityLayer.pdb
